@@ -1,0 +1,2 @@
+# pipenv install django django-allauth
+# pipenv shell
